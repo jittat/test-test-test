@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class NumGuess {
 
 	public static void main(String[] args) {
+	  // ........
 		Random random = new Random();
 		Scanner scanner = new Scanner(System.in); 
 		
